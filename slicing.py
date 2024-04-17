@@ -1,0 +1,15 @@
+word=input()
+t=word[5:10]
+print(t)
+print(word[14:21])
+print(word[21:26])
+print(word[27:30])
+print(word[0:5])
+print(word[17:31])
+print("###")
+print(word[-11:-17:-1])
+print(word[-18:-26:-1])
+print(word[-18:-22:-1])
+print(word[-27:-31:-1])
+print(word[-5:-15:-1])
+#input is:i am learning python launguage
